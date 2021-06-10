@@ -1,6 +1,6 @@
 <h2>Hey, I'm Akash Aher! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p>Software Engineer at <a href="http://www.winjit.com">Winjit Technologies</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p>Software Engineer at <a href="http://www.winjit.com">M3BI/Marsh</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/iamakashaher?label=Follow)
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamakashaher/)](https://www.linkedin.com/in/iamakashaher/)
