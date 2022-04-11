@@ -32,7 +32,7 @@
 ```javascript
 const akash = {
     pronouns: "He" | "Him",
-    code: ["javascript", "typescript", "angular", "nodeJS", "vueJS"],
+    code: ["javascript", "typescript", "angular", "reactjs", "nodeJS"],
     askMeAbout: ["web developement", "tech", "events"],
     technologies: {
         frontEnd: {
