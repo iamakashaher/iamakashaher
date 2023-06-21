@@ -9,7 +9,7 @@
 
 
 
-<p>Visit my <a href="http://www.akashaher.com">Portfolio</a><img src="https://img.freepik.com/premium-vector/gamer-streamer-mascot-logo-vector-illustration_382438-609.jpg" width="30"></p>
+<p>Visit my <a href="http://www.akashaher.com">Portfolio</a></p>
 
 <h3>Things I code with</h3>
 <p>
