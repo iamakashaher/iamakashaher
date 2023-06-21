@@ -1,4 +1,4 @@
-<h2>Hey, I'm Akash Aher! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hey, I'm <a href="http://www.akashaher.com">Akash Aher!</a> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p>Senior Software Engineer at <a href="http://www.globant.com">Globant India Pvt. Ltd.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
 
@@ -6,10 +6,6 @@
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-akash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/iamakashaher/)](https://www.linkedin.com/in/iamakashaher/)
 ![GitHub followers](https://img.shields.io/github/followers/iamakashaher?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=iamakashaher)
-
-
-
-<p>Visit my <a href="http://www.akashaher.com">Portfolio</a></p>
 
 <h3>Things I code with</h3>
 <p>
