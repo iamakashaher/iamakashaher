@@ -23,7 +23,7 @@
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-DD0031?style=flat-square&logo=nginx&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="NextJs" src="https://img.shields.io/badge/-Next.JS-ea2845?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
 </p>
 
