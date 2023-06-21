@@ -14,7 +14,7 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="VueJS" src="https://img.shields.io/badge/vue.js-#42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img alt="VueJS" src="https://img.shields.io/badge/vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-mysql-43853d?style=for-the-badge&logo=mysql&logoColor=white" />
