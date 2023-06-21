@@ -7,7 +7,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/iamakashaher?label=Follow&style=social)
 ![](https://komarev.com/ghpvc/?username=iamakashaher)
 
-<p>Visit my<a href="http://www.akashaher.com">portfolio</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></p>
+<p>Visit my <a href="http://www.akashaher.com">Portfolio</a><img src="https://giphy.com/embed/y0NFayaBeiWEU" width="30"></p>
 
 <h3>Things I code with</h3>
 <p>
