@@ -32,11 +32,11 @@
 ```javascript
 const akash = {
     pronouns: "He" | "Him",
-    code: ["javascript", "typescript", "angular", "reactjs", "nodeJS"],
-    askMeAbout: ["web developement", "tech", "events"],
+    code: ["javascript", "typescript", "angular", "reactjs", "nextJS", "nodeJS", "VueJS"],
+    askMeAbout: ["web development", "tech", "games", "events"],
     technologies: {
         frontEnd: {
-            js: ["angular", "reactJS"],
+            js: ["angular", "reactJS", "nextJS", "nodeJS", "VueJS"],
             css: ["bootstrap", "tailwind", "material"]
         },
         backEnd: {
@@ -44,7 +44,7 @@ const akash = {
             python: ["flask"]
         },
         devOps: ["AWS", "nginx🐳", "apigee"],
-        databases: ["mysql", "mongodb", "moongoose"],
+        databases: ["mySQL", "mongoDB", "moongoose"],
         misc: ["firebase", "socket.IO", "open-cv", "onesignal"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
