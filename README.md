@@ -47,6 +47,6 @@ const akash = {
         misc: ["firebase", "socket.IO", "open-cv", "onesignal"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "There are two ways to write error-free programs; only the third one works!"
 };
 ```
