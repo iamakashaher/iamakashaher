@@ -14,10 +14,8 @@
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
   <img alt="ReactJS" src="https://img.shields.io/badge/-React-61dafb?style=for-the-badge&logo=react&logoColor=black" />
   <img alt="NextJs" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img alt="VueJS" src="https://img.shields.io/badge/vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=for-the-badge&logo=Node.js&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-mysql-43853d?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-E34F26?style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,11 +29,11 @@
 ```javascript
 const akash = {
     pronouns: "He" | "Him",
-    code: ["javascript", "typescript", "angular", "reactjs", "nextJS", "nodeJS", "VueJS"],
+    code: ["javascript", "typescript", "angular", "reactjs", "nextJS", "nodeJS"],
     askMeAbout: ["web development", "tech", "games", "events"],
     technologies: {
         frontEnd: {
-            js: ["angular", "reactJS", "nextJS", "nodeJS", "VueJS"],
+            js: ["angular", "reactJS", "nodeJS", "VueJS"],
             css: ["bootstrap", "tailwind", "material"]
         },
         backEnd: {
@@ -43,7 +41,7 @@ const akash = {
             python: ["flask"]
         },
         devOps: ["AWS", "nginx🐳", "apigee"],
-        databases: ["mySQL", "mongoDB", "moongoose"],
+        databases: ["mongoDB", "moongoose"],
         misc: ["firebase", "socket.IO", "open-cv", "onesignal"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
